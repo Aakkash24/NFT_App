@@ -11,4 +11,4 @@ NFT Card:
 
 ![Screenshot_1666514227](https://user-images.githubusercontent.com/86700664/197382656-b6fa1be3-43b1-4bda-871c-8f1cde5eb8ad.png)
 
-LINK: https://github.com/Aakkash24/NFT
+LINK:https://spring-dust-9902.on.fleek.co/
